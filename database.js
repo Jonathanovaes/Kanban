@@ -1,6 +1,6 @@
 var Sequelize = require('sequelize');
 
-var connection = new Sequelize('administrador','root','@Nogueira987#',{
+var connection = new Sequelize('administrador','root','XXXXXX',{
     dialect: "mysql",
     host: 'localhost',
 });
